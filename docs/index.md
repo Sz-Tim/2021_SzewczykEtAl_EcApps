@@ -7,7 +7,7 @@
 
 -----
 
-<img width="70%" class="center" src="https://raw.githubusercontent.com/Sz-Tim/2021_SzewczykEtAl_EcApps/main/figs/short_overview.png">
+<img style="display: block; margin-left: auto; margin-right: auto; width: 70%" src="https://raw.githubusercontent.com/Sz-Tim/2021_SzewczykEtAl_EcApps/main/figs/short_overview.png">
 
 
 -----
