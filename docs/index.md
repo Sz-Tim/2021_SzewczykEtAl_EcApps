@@ -8,7 +8,7 @@
 -----
 
 
-![mod_preview](https://raw.githubusercontent.com/Sz-Tim/2021_SzewczykEtAl_EcApps/main/figs/short_overview.png)
+![mod_preview](https://raw.githubusercontent.com/Sz-Tim/2021_SzewczykEtAl_EcApps/main/figs/short_overview.png){width="60%"}
 
 
 -----
