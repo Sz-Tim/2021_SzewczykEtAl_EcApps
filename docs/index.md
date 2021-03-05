@@ -7,7 +7,7 @@
 
 -----
 
-[<img width="70%" class="center" src="https://raw.githubusercontent.com/Sz-Tim/2021_SzewczykEtAl_EcApps/main/figs/short_overview.png">]
+<img width="70%" class="center" src="https://raw.githubusercontent.com/Sz-Tim/2021_SzewczykEtAl_EcApps/main/figs/short_overview.png">
 
 
 -----
@@ -21,6 +21,6 @@ This manuscript describes a hierarchical Bayesian approach to capitalize on the 
 
 To use the model described here, the two land cover datasets are first converted to compositional data by overlaying a grid with the desired resolution, and calculating the proportional coverage of each land cover category within each grid cell (general, broad extent dataset: **Z**; precise, local dataset: **Y**). Then, the discrepancy between **Y** and **Z** is modelled, including the ability to partition a general category from **Z** (e.g., *Evergreen Forest*) into two more precise categories (*White Pine Forest* and *Other Evergreen Forest*) that are identified in **Y**. From these fitted relationships, the model can then predict the land cover composition beyond the borders of **Y** with improved accuracy. 
 
-![<img width=80% src="https://raw.githubusercontent.com/Sz-Tim/2021_SzewczykEtAl_EcApps/main/figs/Fig1_modStructure.png">]
+<img width=80% src="https://raw.githubusercontent.com/Sz-Tim/2021_SzewczykEtAl_EcApps/main/figs/Fig1_modStructure.png">
 
 
