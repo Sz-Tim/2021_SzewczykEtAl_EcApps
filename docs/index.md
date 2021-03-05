@@ -13,7 +13,7 @@
 
 Szewczyk TM, MJ Ducey, VJ Pasquarella, JM Allen. 2021. Extending coverage and thematic resolution of compositional land cover maps in a hierarchical Bayesian framework. *Ecological Applications*. [https://doi.org/10.1002/eap.2318](https://doi.org/10.1002/eap.2318)  
 
-[<img style="width=70%" src="https://raw.githubusercontent.com/Sz-Tim/2021_SzewczykEtAl_EcApps/main/figs/GitHub-Mark-32px.png">GitHub Repository](https://github.com/Sz-Tim/2021_SzewczykEtAl_EcApps)  
+[<img style="width=25%" src="https://raw.githubusercontent.com/Sz-Tim/2021_SzewczykEtAl_EcApps/main/figs/GitHub-Mark-32px.png">  GitHub Repository](https://github.com/Sz-Tim/2021_SzewczykEtAl_EcApps)  
 
 ------
 
