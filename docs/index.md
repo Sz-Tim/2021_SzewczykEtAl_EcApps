@@ -1,4 +1,4 @@
-# Extending coverage and thematic resolution of compositional land cover maps in a hierarchical Bayesian framework  
+## Extending coverage and thematic resolution of compositional land cover maps in a hierarchical Bayesian framework  
 
 **Szewczyk TM, MJ Ducey, VJ Pasquarella, JM Allen**  
 *Ecological Applications*  
