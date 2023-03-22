@@ -2,7 +2,8 @@
 
 ------
 
-[Manuscript DOI](https://doi.org/10.1002/eap.2318)
+[Manuscript DOI](https://doi.org/10.1002/eap.2318)  
+[![DOI](https://zenodo.org/badge/344782621.svg)](https://zenodo.org/badge/latestdoi/344782621)
 
 
 
